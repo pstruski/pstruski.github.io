@@ -18,9 +18,9 @@ the Global Markets divison at BNP Paribas, where I was responsible for forecasti
 Then, I worked in the Fixed Income and Macro team at Citadel, where I developed 
 data-driven macroeconomic analytics and forecasting tools for macro traders and economists.
 
-I received my Master's degree from the University of Cambridge and my Bachelor's degree
-from University College London (UCL). During my studies, I had the opportunity to
-work as a research assistant with [Prof. Eric French](https://sites.google.com/site/ericfrenchecon/).
+I received my MPhil degree in Economic Research from the University of Cambridge 
+and my BSc degree in Economics from University College London (UCL).
+During my studies, I had the opportunity to work as a research assistant with [Prof. Eric French](https://sites.google.com/site/ericfrenchecon/).
 
 
 Recent News

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Please see my Curriculum Vitae here in the pdf format.](/files/cv_pawel_struski_aug2025.pdf)
+[Please please click here for a pdf](/files/cv_pawel_struski_aug2025.pdf)
